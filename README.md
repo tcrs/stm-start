@@ -140,8 +140,11 @@ See example in the `example-cmsis` folder (note you'll need that checkout of
 `mbed-os` - see the readme in the folder).
 
 [Good overview of CMSIS on the LPC devices](https://sergeev.io/notes/cortex_cmsis/)
+
 [Very useful tutorial](http://regalis.com.pl/en/arm-cortex-stm32-gnulinux/)
+
 [Useful tutorial on making a blinky](http://jeremyherbert.net/get/stm32f4_getting_started)
+
 [Tutorial not really checked out yet](http://theanine.io/notes/cortex_cmsis/)
 
 [mbed-git]: https://github.com/ARMmbed/mbed-os.git
